@@ -1,0 +1,5 @@
+train: /content/Transfer-learning-reconhecimento-de-rosto/DataSet/train
+val: /content/Transfer-learning-reconhecimento-de-rosto/DataSet/val
+
+nc: 3  # número de classes
+names: ['Jim_carrey', 'Will_smith','Outros']  # substitua pelos nomes das suas classes
